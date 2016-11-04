@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Documents\Development\Android\FunFacts\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="D:\Documents\Development\Android\FunFacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.2.1_4a9117ee188ff8e2e9444c642c49ce01271328b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Documents\Development\Android\FunFacts\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="D:\Documents\Development\Android\FunFacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.2.1_4e0af2b0f2e81db4d0708d3f76a5f429bb64925c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Documents\Development\Android\FunFacts\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c86d131abadee7952fb8b8bb2b46e2f9a2fb1f90">
+        <dex dex="D:\Documents\Development\Android\FunFacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c5734625c4a5f2a0c833a56ce5497179ffd9e2f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Documents\Development\Android\FunFacts\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="D:\Documents\Development\Android\FunFacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.2.1_63e07dcc950561dd01905f6a12fb9c913baba405\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Documents\Development\Android\FunFacts\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="02623f922f9860b25b7e25fe612774551c1246b7">
+        <dex dex="D:\Documents\Development\Android\FunFacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c8c93ea3f4d3106a309cf47cd1f2e781a3f9f528\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kunal\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="D:\Documents\Development\Android\FunFacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.2.1_734445ab5517831e791fc665bc878812e3bde779\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Documents\Development\Android\FunFacts\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="D:\Documents\Development\Android\FunFacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.2.1_736fbdc9ea7d79277ce186fa2420a9042da06b80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Documents\Development\Android\FunFacts\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="D:\Documents\Development\Android\FunFacts\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.2.1_d5b3ef43d54c57fce691840832db508c7c7349f4\classes.dex" />
+    </item>
+
+</items>
